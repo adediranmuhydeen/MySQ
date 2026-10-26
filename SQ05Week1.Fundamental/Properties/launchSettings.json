@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SQ05Week1.Fundamental": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
